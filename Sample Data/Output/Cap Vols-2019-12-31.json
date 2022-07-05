@@ -1,0 +1,846 @@
+{
+  "GroupName": "Cap Vols",
+  "AsOfDate": "31/12/2019",
+  "Quotes": [
+    {
+      "ProductId": "EUCF2212 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 11481.1990301251
+    },
+    {
+      "ProductId": "EUCF703 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5534.4254872439
+    },
+    {
+      "ProductId": "EUCF908 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 4753.413025143
+    },
+    {
+      "ProductId": "EUCF102 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 3.0478176791
+    },
+    {
+      "ProductId": "EUCF2256 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 11503.7127563305
+    },
+    {
+      "ProductId": "EUCF707 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5624.250025269
+    },
+    {
+      "ProductId": "EUCF9020 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 4736.6660192323
+    },
+    {
+      "ProductId": "EUCF509 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6990.4950046373
+    },
+    {
+      "ProductId": "EUCF3012 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 9631.4412728694
+    },
+    {
+      "ProductId": "EUCF309 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 9639.3124484
+    },
+    {
+      "ProductId": "EUCF1015 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 18467.9387092305
+    },
+    {
+      "ProductId": "EUCF108 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 18485.6104012629
+    },
+    {
+      "ProductId": "EUCF1712 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 13344.8704858
+    },
+    {
+      "ProductId": "EUCF4010 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8053.175462831
+    },
+    {
+      "ProductId": "EUCF1759 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 13352.95803739
+    },
+    {
+      "ProductId": "EUCF256 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 10794.2114132742
+    },
+    {
+      "ProductId": "EUCF2010 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 12330.0041021885
+    },
+    {
+      "ProductId": "EUCF306 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 9654.0278063392
+    },
+    {
+      "ProductId": "EUCF505 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 0.7010577253
+    },
+    {
+      "ProductId": "EUCF508 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6994.6762977111
+    },
+    {
+      "ProductId": "EUCF1012 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 18471.528161
+    },
+    {
+      "ProductId": "EUCF205 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 1.2353211177
+    },
+    {
+      "ProductId": "EUCF801 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5210.4733952341
+    },
+    {
+      "ProductId": "EUCF255 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 10799.3664437
+    },
+    {
+      "ProductId": "EUCF704 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5593.3555046323
+    },
+    {
+      "ProductId": "EUCF807 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5148.5773063307
+    },
+    {
+      "ProductId": "EUCF1010 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 18478.8125965304
+    },
+    {
+      "ProductId": "EUCF8010 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5136.5889329
+    },
+    {
+      "ProductId": "EUCF1756 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 13369.3211984277
+    },
+    {
+      "ProductId": "EUCF258 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 10782.7853957843
+    },
+    {
+      "ProductId": "EUCF6015 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6199.9876683
+    },
+    {
+      "ProductId": "EUCF906 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 4763.54653298
+    },
+    {
+      "ProductId": "EUCF5015 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6977.2609341
+    },
+    {
+      "ProductId": "EUCF406 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8069.4289653
+    },
+    {
+      "ProductId": "EUCF105 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 1.850329434
+    },
+    {
+      "ProductId": "EUCF705 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5637.5701006634
+    },
+    {
+      "ProductId": "EUCF1020 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 18466.5796983641
+    },
+    {
+      "ProductId": "EUCF5012 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6981.43802563
+    },
+    {
+      "ProductId": "EUCF356 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8773.132225409
+    },
+    {
+      "ProductId": "EUCF209 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 12332.1025679
+    },
+    {
+      "ProductId": "EUCF8015 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5127.9921923
+    },
+    {
+      "ProductId": "EUCF2210 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 11485.4089738
+    },
+    {
+      "ProductId": "EUCF2515 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 10766.176535682
+    },
+    {
+      "ProductId": "EUCF2255 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 11510.07123595
+    },
+    {
+      "ProductId": "EUCF3512 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8750.667025891
+    },
+    {
+      "ProductId": "EUCF901 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 4798.119989365
+    },
+    {
+      "ProductId": "EUCF2259 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 11488.62423301
+    },
+    {
+      "ProductId": "EUCF808 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5144.27277584
+    },
+    {
+      "ProductId": "EUCF1753 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 13051.92003827
+    },
+    {
+      "ProductId": "EUCF401 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 0.8459327459
+    },
+    {
+      "ProductId": "EUCF252 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 12613.5361197
+    },
+    {
+      "ProductId": "EUCF907 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 4758.0263801901
+    },
+    {
+      "ProductId": "EUCF203 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 1.206054965
+    },
+    {
+      "ProductId": "EUCF702 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5842.309225491
+    },
+    {
+      "ProductId": "EUCF5010 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6987.1508702632
+    },
+    {
+      "ProductId": "EUCF2012 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 12324.45242268
+    },
+    {
+      "ProductId": "EUCF251 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 11884.27023942
+    },
+    {
+      "ProductId": "EUCF905 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 4770.6649476
+    },
+    {
+      "ProductId": "EUCF8012 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5131.573225226
+    },
+    {
+      "ProductId": "EUCF2015 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 12318.7801315
+    },
+    {
+      "ProductId": "EUCF1755 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 13375.1034016627
+    },
+    {
+      "ProductId": "EUCF803 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5070.864158
+    },
+    {
+      "ProductId": "EUCF2251 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 12869.76803944
+    },
+    {
+      "ProductId": "EUCF3510 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8756.280625963
+    },
+    {
+      "ProductId": "EUCF352 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 9706.1757455682
+    },
+    {
+      "ProductId": "EUCF502 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 0.7451024414
+    },
+    {
+      "ProductId": "EUCF303 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 0.9441037547
+    },
+    {
+      "ProductId": "EUCF2512 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 10770.3275501897
+    },
+    {
+      "ProductId": "EUCF501 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 0.7231674702
+    },
+    {
+      "ProductId": "EUCF608 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6215.7456724
+    },
+    {
+      "ProductId": "EUCF607 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6220.4769703
+    },
+    {
+      "ProductId": "EUCF358 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8763.768225724
+    },
+    {
+      "ProductId": "EUCF408 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8061.2544448197
+    },
+    {
+      "ProductId": "EUCF609 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6214.0019631804
+    },
+    {
+      "ProductId": "EUCF104 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 1.8276336931
+    },
+    {
+      "ProductId": "EUCF202 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 1.5183168772
+    },
+    {
+      "ProductId": "EUCF301 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 1.0390744745
+    },
+    {
+      "ProductId": "EUCF405 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 0.8078324612
+    },
+    {
+      "ProductId": "EUCF2258 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 11492.91203646
+    },
+    {
+      "ProductId": "EUCF201 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 1.4100375913
+    },
+    {
+      "ProductId": "EUCF305 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 0.9660907125
+    },
+    {
+      "ProductId": "EUCF1754 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 13220.4004483
+    },
+    {
+      "ProductId": "EUCF804 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5122.980625321
+    },
+    {
+      "ProductId": "EUCF4012 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8047.8841177
+    },
+    {
+      "ProductId": "EUCF403 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 0.7904099946
+    },
+    {
+      "ProductId": "EUCF404 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 0.7998525855
+    },
+    {
+      "ProductId": "EUCF903 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 4692.719225655
+    },
+    {
+      "ProductId": "EUCF604 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6180.9362568255
+    },
+    {
+      "ProductId": "EUCF7020 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5601.774025439
+    },
+    {
+      "ProductId": "EUCF3515 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8746.92562524
+    },
+    {
+      "ProductId": "EUCF3020 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 9624.572361374
+    },
+    {
+      "ProductId": "EUCF1710 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 13350.8265492266
+    },
+    {
+      "ProductId": "EUCF109 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 18481.5315684408
+    },
+    {
+      "ProductId": "EUCF402 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 0.8781505219
+    },
+    {
+      "ProductId": "EUCF355 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8780.627025582
+    },
+    {
+      "ProductId": "EUCF7012 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5608.3240013954
+    },
+    {
+      "ProductId": "EUCF1720 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 13336.78522411
+    },
+    {
+      "ProductId": "EUCF706 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5630.0638501543
+    },
+    {
+      "ProductId": "EUCF6012 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6204.7129636
+    },
+    {
+      "ProductId": "EUCF407 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8064.846404687
+    },
+    {
+      "ProductId": "EUCF107 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 18489.20063263
+    },
+    {
+      "ProductId": "EUCF602 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6529.292864918
+    },
+    {
+      "ProductId": "EUCF357 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8768.4496651
+    },
+    {
+      "ProductId": "EUCF504 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 0.694708493
+    },
+    {
+      "ProductId": "EUCF4015 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8043.3066502188
+    },
+    {
+      "ProductId": "EUCF806 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5154.3194804413
+    },
+    {
+      "ProductId": "EUCF1752 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 17072.0356667
+    },
+    {
+      "ProductId": "EUCF302 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 1.092234511
+    },
+    {
+      "ProductId": "EUCF9015 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 4738.0426569172
+    },
+    {
+      "ProductId": "EUCF3520 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8744.994512783
+    },
+    {
+      "ProductId": "EUCF701 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5719.140625533
+    },
+    {
+      "ProductId": "EUCF2020 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 12317.792056476
+    },
+    {
+      "ProductId": "EUCF253 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 10550.3990344476
+    },
+    {
+      "ProductId": "EUCF2520 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 10763.0637988389
+    },
+    {
+      "ProductId": "EUCF9010 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 4746.9956771868
+    },
+    {
+      "ProductId": "EUCF409 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8055.960025788
+    },
+    {
+      "ProductId": "EUCF902 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 4878.1133626654
+    },
+    {
+      "ProductId": "EUCF6010 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6210.060944992
+    },
+    {
+      "ProductId": "EUCF601 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6367.242025826
+    },
+    {
+      "ProductId": "EUCF507 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6998.159025929
+    },
+    {
+      "ProductId": "EUCF1758 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 13358.9163831915
+    },
+    {
+      "ProductId": "EUCF4020 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8040.7089276
+    },
+    {
+      "ProductId": "EUCF257 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 10787.978289999934
+    },
+    {
+      "ProductId": "EUCF805 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5160.9856988
+    },
+    {
+      "ProductId": "EUCF359 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8759.9640088223
+    },
+    {
+      "ProductId": "EUCF904 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 4738.7310507519
+    },
+    {
+      "ProductId": "EUCF7010 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5612.8184507753
+    },
+    {
+      "ProductId": "EUCF1715 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 13340.4289345366
+    },
+    {
+      "ProductId": "EUCF5020 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6974.617492577
+    },
+    {
+      "ProductId": "EUCF1751 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 15702.9131593418
+    },
+    {
+      "ProductId": "EUCF3015 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 9625.5721537
+    },
+    {
+      "ProductId": "EUCF603 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6113.5055144664
+    },
+    {
+      "ProductId": "EUCF106 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 18494.64003544
+    },
+    {
+      "ProductId": "EUCF708 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5620.3132001555
+    },
+    {
+      "ProductId": "EUCF308 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 9644.204324594
+    },
+    {
+      "ProductId": "EUCF2254 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 11383.8943756862
+    },
+    {
+      "ProductId": "EUCF2215 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 11476.9132016116
+    },
+    {
+      "ProductId": "EUCF206 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 12346.54323434
+    },
+    {
+      "ProductId": "EUCF802 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5307.851025853
+    },
+    {
+      "ProductId": "EUCF351 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 9300.6391959314
+    },
+    {
+      "ProductId": "EUCF606 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6226.7881542
+    },
+    {
+      "ProductId": "EUCF2220 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 11473.62323651
+    },
+    {
+      "ProductId": "EUCF3010 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 9636.3491386184
+    },
+    {
+      "ProductId": "EUCF809 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5140.6870423673
+    },
+    {
+      "ProductId": "EUCF8020 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5126.3566094565
+    },
+    {
+      "ProductId": "EUCF506 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 7004.0161905
+    },
+    {
+      "ProductId": "EUCF503 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 0.6868953937
+    },
+    {
+      "ProductId": "EUCF307 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 9648.150625927
+    },
+    {
+      "ProductId": "EUCF353 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8587.7289713
+    },
+    {
+      "ProductId": "EUCF2257 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 11499.422727392
+    },
+    {
+      "ProductId": "EUCF208 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 12337.7785545791
+    },
+    {
+      "ProductId": "EUCF2253 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 11241.364424913
+    },
+    {
+      "ProductId": "EUCF1757 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 13363.540245476
+    },
+    {
+      "ProductId": "EUCF7015 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5603.8313521262
+    },
+    {
+      "ProductId": "EUCF103 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 1.803649925
+    },
+    {
+      "ProductId": "EUCF605 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6233.892025522
+    },
+    {
+      "ProductId": "EUCF207 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 12342.222198821
+    },
+    {
+      "ProductId": "EUCF6020 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 6199.0327413511
+    },
+    {
+      "ProductId": "EUCF354 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 8691.7697151527
+    },
+    {
+      "ProductId": "EUCF204 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 1.2213565486
+    },
+    {
+      "ProductId": "EUCF101 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 2.6787274149
+    },
+    {
+      "ProductId": "EUCF259 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 10778.5924644
+    },
+    {
+      "ProductId": "EUCF254 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 10682.2906223135
+    },
+    {
+      "ProductId": "EUCF9012 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 4742.17377363
+    },
+    {
+      "ProductId": "EUCF304 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 0.9558951193
+    },
+    {
+      "ProductId": "EUCF2510 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 10774.44684
+    },
+    {
+      "ProductId": "EUCF709 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 5616.5652004136
+    },
+    {
+      "ProductId": "EUCF2252 Curncy",
+      "AsOfDate": "31/12/2019",
+      "Value": 13750.1098985566
+    }
+  ]
+}
